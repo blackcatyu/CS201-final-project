@@ -1,5 +1,5 @@
 # CS201-final-project
-This is the final project for COMPSCI 201 (Fall 2024-2025). The project involves building a Java application to process and manage a database file (people.txt) containing personal information using a variety of data structures and algorithms.
+This is the final project for COMPSCI 201 (24 Fall). The project involves building a Java application to process and manage a database file (people.txt) containing personal information using a variety of data structures and algorithms.
 ## 🏆 Project Overview
 This project implements a system for processing a structured database file containing personal information. The system includes:
 
